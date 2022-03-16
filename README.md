@@ -9,33 +9,33 @@ https://discord.gg/fJekXq5jUP
 
 ### Commands
 # Auto Message Commands
-/autobesked
-/autobeskeddis
-/autobeskedgit
+- /autobesked
+- /autobeskeddis
+- /autobeskedgit
 
 ***Police Commands***
-/pa
-/pvi
+- /pa
+- /pvi
 
 ***RealEstateAgent Commands***
-/reaa
+- /reaa
 
 ***EMS Commands***
-/emsa
+- /emsa
 
 ***Bank Commands***
-/bitcoina
-/banka
+- /bitcoina
+- /banka
 
 ***Car Dealer Commands***
-/cardeakera
+- /cardeakera
 
 ***RP Commands***
-/tweet
-/atweet
-/bmarket
-/ad
+- /tweet
+- /atweet
+- /bmarket
+- /ad
 
 ***Not RP Commands***
-/ooc
-/ool (Fixing)
+- /ooc
+- /ool (Fixing)
