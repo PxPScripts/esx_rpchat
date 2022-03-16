@@ -13,29 +13,29 @@ https://discord.gg/fJekXq5jUP
 /autobeskeddis
 /autobeskedgit
 
-# Police Commands
+***Police Commands***
 /pa
 /pvi
 
-# RealEstateAgent Commands
+***RealEstateAgent Commands***
 /reaa
 
-# EMS Commands
+***EMS Commands***
 /emsa
 
-# Bank Commands
+***Bank Commands***
 /bitcoina
 /banka
 
-# Car Dealer Commands
+***Car Dealer Commands***
 /cardeakera
 
-# RP Commands
+***RP Commands***
 /tweet
 /atweet
 /bmarket
 /ad
 
-# Not RP Commands
+***Not RP Commands***
 /ooc
 /ool (Fixing)
